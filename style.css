@@ -1,0 +1,28 @@
+body
+{
+    font-family: Verdana;
+    background-color: white;
+}
+#logo
+{
+    width: 700px;
+    height: 400px;
+    background-color: rgb(187, 187, 187);
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+    text-align: center;
+    font-size: 80px;
+}
+#social
+{
+    color: red;
+    font-size: 500px;
+}
+#tekst
+{
+    top: 0;
+    position: absolute;
+    margin-left: 800px;
+    font-size: 100px;
+}
